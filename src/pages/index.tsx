@@ -32,7 +32,7 @@ export default function Home(props: HomeProps){
       <div className={styles.container}>
         <ExperienceBar />
         <Head>
-          <title>Home - MoveIt</title> {/** MUDAR */}
+          <title>Home - LetsMove</title>
         </Head>
 
         <CountdownProvider>
